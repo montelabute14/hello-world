@@ -1,2 +1,2 @@
 # hello-world
-first repository
+I love scala and python.
